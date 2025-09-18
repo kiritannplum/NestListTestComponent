@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:ListView show-border="true" virtualization-method="DynamicHeight" selection-type="Multiple" show-alternating-row-backgrounds="ContentOnly" reorderable="true" show-foldout-header="true" show-add-remove-footer="true" reorder-mode="Animated" show-bound-collection-size="false" name="TestInners" header-title="TestInners" />
+    </ui:VisualElement>
+</ui:UXML>
